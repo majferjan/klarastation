@@ -1,0 +1,59 @@
+{
+  "stages": [
+    {
+      "prompt": "Solve the first operation.",
+      "clue": "ADD",
+      "answer": "42"
+    },
+    {
+      "prompt": "Use the previous result and remove twelve.",
+      "clue": "SUBTRACT",
+      "answer": "30"
+    },
+    {
+      "prompt": "Multiply the two numbers hidden in your clue.",
+      "clue": "MULTIPLY",
+      "answer": "144"
+    },
+    {
+      "prompt": "Divide the result into equal groups.",
+      "clue": "DIVIDE",
+      "answer": "12"
+    },
+    {
+      "prompt": "Enter the number revealed by the fifth clue.",
+      "clue": "FIND",
+      "answer": "2026"
+    },
+    {
+      "prompt": "Combine the marked digits in reading order.",
+      "clue": "COMBINE",
+      "answer": "314159"
+    },
+    {
+      "prompt": "Reverse the number discovered in the room.",
+      "clue": "REVERSE",
+      "answer": "654321"
+    },
+    {
+      "prompt": "Count every matching symbol and enter the total.",
+      "clue": "COUNT",
+      "answer": "11"
+    },
+    {
+      "prompt": "Convert the clue into its numeric form.",
+      "clue": "CONVERT",
+      "answer": "808"
+    },
+    {
+      "prompt": "Join the three solved fragments.",
+      "clue": "ASSEMBLE",
+      "answer": "1234567"
+    },
+    {
+      "prompt": "Enter the final code to finish the puzzle.",
+      "clue": "FINAL",
+      "answer": "250122"
+    }
+  ]
+}

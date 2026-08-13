@@ -1,59 +1,69 @@
 {
   "stages": [
     {
-      "prompt": "Solve the first operation.",
+      "prompt": "Home",
       "clue": "ADD",
-      "answer": "42"
+      "answer": "69420"
     },
     {
-      "prompt": "Use the previous result and remove twelve.",
+      "prompt": "Prague",
+      "clue": "FINAL",
+      "answer": "273671"
+    },
+    {
+      "prompt": "Johanna",
       "clue": "SUBTRACT",
-      "answer": "30"
+      "answer": "886247"
     },
     {
-      "prompt": "Multiply the two numbers hidden in your clue.",
+      "prompt": "Terka.",
       "clue": "MULTIPLY",
-      "answer": "144"
+      "answer": "328560"
     },
     {
-      "prompt": "Divide the result into equal groups.",
+      "prompt": "Lucie",
       "clue": "DIVIDE",
-      "answer": "12"
+      "answer": "853402"
     },
     {
-      "prompt": "Enter the number revealed by the fifth clue.",
+      "prompt": "Paja",
       "clue": "FIND",
-      "answer": "2026"
+      "answer": "151232"
     },
     {
-      "prompt": "Combine the marked digits in reading order.",
+      "prompt": "Anet",
       "clue": "COMBINE",
       "answer": "314159"
     },
     {
-      "prompt": "Reverse the number discovered in the room.",
+      "prompt": "Julia",
       "clue": "REVERSE",
-      "answer": "654321"
+      "answer": "305810"
     },
     {
-      "prompt": "Count every matching symbol and enter the total.",
+      "prompt": "Ondra",
       "clue": "COUNT",
-      "answer": "11"
+      "answer": "224365"
     },
     {
-      "prompt": "Convert the clue into its numeric form.",
+      "prompt": "Matěj",
       "clue": "CONVERT",
-      "answer": "808"
+      "answer": "398762"
     },
     {
-      "prompt": "Join the three solved fragments.",
+      "prompt": "Veru",
       "clue": "ASSEMBLE",
-      "answer": "1234567"
+      "answer": "558716"
     },
     {
-      "prompt": "Enter the final code to finish the puzzle.",
+      "prompt": "Sazava",
       "clue": "FINAL",
-      "answer": "250122"
+      "answer": "213971"
+    },
+    {
+      "prompt": "Minecraft",
+      "clue": "FINAL",
+      "answer": "14000605"
     }
   ]
 }
